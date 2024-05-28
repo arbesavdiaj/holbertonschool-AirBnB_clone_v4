@@ -17,7 +17,7 @@ This is the 4th version of our AirBnB clone project. We will be using python3, R
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3), jQuery (version 3.x), MySQL (version 5.7), Flask, and Chrome (version 57.0)
-
+ 
 ## Installation
 ** UNDER CONSTRUCTION **
 
